@@ -38,10 +38,33 @@ Except for the following cases, we will not disclose personal information with a
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 4.0 User’s right 
+The users, as main agents of the information, may exercise the following rights regarding the collection use and sharing of personal information by us:
+ - exercise right to access to personal information
+-make corrections or deletion
+-make temporary suspension of treatment of personal information
+-Request the withdrawal of their consent provided before
+
+If, in order to exercise the above right, you, as a user, contact us by sending a document or e-mails, we will take measures without delay: Provided that we may reject the request of you only to the extent that there exists either proper cause as prescribed in the laws or equivalent cause. 
 
 <br>
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 5.0 Protection of personal information of children
+In principle, we do not collect any information from the children under 13 or equivalent minimum age as prescribed in the laws in relevant jurisdiction. This app provides all the products and services to ordinary people, in principle. 
+
+## 6.0
+We have the right to amend or modify this Policy from time to time and, in such case, we will make a public notice of it through app(or through individual notice such as email) and obtain consent from the users if required by relevant laws.
+
+## 7.0
+Please use one of the following methods to contact us should you have any queries in respect to this policy or wish to update your information. 
+- Company name: Logbeats
+- E-mail: emma@logbeats.co.kr
+
+
+
+
+
+
+
+
+
