@@ -9,7 +9,7 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
 #your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : #assets/Icon.png      #(앱아이콘 이미지)
+app_icon                                  : assets/appicon.png      #(앱아이콘 이미지)
 app_name                                  : BERRY                #(앱아이콘 옆의 앱이름)
 app_price                                 : FREE                 #(앱이름 하단)
 app_description                           : Period tracking, Pregnancy preparing #(앱 설명)
