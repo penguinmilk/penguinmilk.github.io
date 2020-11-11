@@ -1,5 +1,5 @@
 #page title
-page_title                                : Berry     #(상단탭 이름)  
+page_title                                :      #(상단탭 이름)  
 
 # App Info
 ios_app_id                                : 1509623459                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
