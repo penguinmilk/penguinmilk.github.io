@@ -1,5 +1,5 @@
 #page title
-page_title                                : 123                                       # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually. (상단탭 이름)
+page_title                                : 123                                       #(상단탭 이름) Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually. 
 
 # App Info
 ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -13,10 +13,12 @@ app_icon                                  : # assets/appicon.png                
 app_name                                  : BERRY                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Write a short tagline for your app.
-url                                       : https://penguinmilk.github.io/
+
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
-
+# Site Settings 
+title                                     : title test 
+url                                       : https://penguinmilk.github.io/            # URL
 
 # Information About Yourself
 your_name                                 : Emil Baehr                                
@@ -105,16 +107,6 @@ social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
-
-
-
-
-
-
-
-
-
-
 
 
 
