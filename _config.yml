@@ -59,6 +59,7 @@ features                                  :
     fontawesome_icon_name                 :  sync
     
 # misezoro feature list
+misezero-features                         :
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
