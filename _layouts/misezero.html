@@ -44,7 +44,7 @@
                         </div>
                         <div class="appNamePriceContainer">
                             <h1 class="appName">
-                                {{ site.app_name }}
+                                {{ site.app_misezero_name }}
                             </h1>
                             <h2 class="appPrice">
                                 {{ site.app_price }}
@@ -52,7 +52,7 @@
                         </div>
                         <div class="appDescriptionContainer">
                             <p class ="appDescription">
-                                {{ site.app_description }}
+                                {{ site.app_misezero_description }}
                             </p>
                         </div>
                         <div class="downloadButtonsContainer">
@@ -60,7 +60,7 @@
                             <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="assets/appstore.png"></a>
                         </div>
                     </div>
-                    {% include features.html %}
+                    {% include misezero-features.html %}
                     {% include footer.html %}
                     {% include appstoreimages.html %}
                 </div>
