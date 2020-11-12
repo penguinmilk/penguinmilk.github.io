@@ -3,23 +3,29 @@
 page_title                                :      #(상단탭 이름)  
 
 # App Info_text
-ios_app_id                                : 1509623459                   # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : #1509623459                   # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EC%98%81/id1509623459    # (앱스토어 url)
+appstore_berry_link                       :
+appstore_misezero_link                    :
+
 playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_berry_link                      :
+playstore_misezero_link                   :
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
 #your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  :                                           #(앱아이콘 이미지)
 
-app_name                                  : app-name                                          #(앱아이콘 옆의 앱이름)
+app_name                                  :                                        #(앱아이콘 옆의 앱이름)
 app_berry_name                            : BERRY
 app_misezero_name                         : Misezero
 
 app_price                                 :                                           #(앱이름 하단)
-app_berry_price                           :
+app_berry_price                           : Free
+app_misezero_price                        : Free
 
-app_description                           : app description                                         #(앱 설명)
+app_description                           :                                         #(앱 설명)
 app_berry_description                     : period tracking     
 app_misezero_description                  : Finedust information in Korea     
 
@@ -47,32 +53,28 @@ features                                  :
 
   - title                                 : useful app
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : play # magic
+    fontawesome_icon_name                 : thumbs-up # magic
     
   - title                                 : easy app
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
+  - title                                 : beautiful app
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 :  #Automatic Icon and Metadata
-    description                           :  #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 :  #
+    fontawesome_icon_name                 : mobile-alt
     
 # misezoro feature list
 misezero-features                         :
 
-  - title                                 : mise1
+  - title                                 : checking air quality
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : wind #adjust
   
-  - title                                 : mise2
+  - title                                 : checking weather
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : sun #star
 
-  - title                                 : Checking anytime, anywhere
+  - title                                 : Checking anytime & anywhere
     description                           : Display a smart app banner on iOS devices.
     fontawesome_icon_name                 : map-pin #arrow-alt-circle-down
     
@@ -81,7 +83,7 @@ berry-features                            :
 
   - title                                 : Period Tracking
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : calendar-ckeck #link
+    fontawesome_icon_name                 : calendar-check #link
 
   - title                                 : Data visualizing
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
@@ -89,7 +91,7 @@ berry-features                            :
 
   - title                                 : Easy handling
     description                           : New Feature Description
-    fontawesome_icon_name                 : sync                      # Find free icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : grin-hearts                      # Find free icons on fontawesome.com/icons.
 
 
 
