@@ -80,15 +80,15 @@ berry-features                            :
 
   - title                                 : Period Tracking
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : calendar-star #link
+    fontawesome_icon_name                 : calendar-ckeck #link
 
   - title                                 : Data visualizing
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : analyticcs #info-circle
+    fontawesome_icon_name                 : chart-bar #info-circle
 
   - title                                 : Easy handling
     description                           : New Feature Description
-    fontawesome_icon_name                 : sync                      # Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : sync                      # Find free icons on fontawesome.com/icons.
 
 
 
