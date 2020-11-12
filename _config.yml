@@ -63,17 +63,17 @@ features                                  :
 # misezoro feature list
 misezero-features                         :
 
-  - misezerotitle                                 : Easy to Tweak
-    misezerodescription                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    misezerofontawesome_icon_name                 : adjust
+  - title                                 : Easy to Tweak
+    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : adjust
   
-  - misezerotitle                                 : Feature List
-    misezerodescription                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    misezerofontawesome_icon_name                 : star
+  - title                                 : Feature List
+    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : star
 
-  - misezerotitle                                 : Smart App Banner
-    misezerodescription                           : Display a smart app banner on iOS devices.
-    misezerofontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Smart App Banner
+    description                           : Display a smart app banner on iOS devices.
+    fontawesome_icon_name                 : arrow-alt-circle-down
     
     
     
@@ -88,9 +88,9 @@ berry-features                                 :
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : info-circle
 
-  - berrytitle                                 : # New Feature Title
-    berrydescription                           : # New Feature Description
-    berryfontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
