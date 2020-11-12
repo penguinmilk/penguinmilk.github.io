@@ -1,7 +1,7 @@
 #page title
 page_title                                :      #(상단탭 이름)  
 
-# App Info
+# App Info_text
 ios_app_id                                : 1509623459                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EC%98%81/id1509623459    # (앱스토어 url)
