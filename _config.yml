@@ -10,9 +10,15 @@ presskit_download_link                    :                                     
 #your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  :                                           #(앱아이콘 이미지)
+
 app_name                                  :                                           #(앱아이콘 옆의 앱이름)
+app_berry_name                            : BERRY
+
 app_price                                 :                                           #(앱이름 하단)
+app_berry_price                           :
+
 app_description                           : app description                                         #(앱 설명)
+app_berry_description                     : period tracking     
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
