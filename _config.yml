@@ -61,7 +61,6 @@ features                                  :
     
     
 # misezoro feature list
-#misezero-features                         :
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
@@ -74,8 +73,6 @@ features                                  :
   - title                                 : Smart App Banner
     description                           : Display a smart app banner on iOS devices.
     fontawesome_icon_name                 : arrow-alt-circle-down
-    
-    
     
 # berry feature lest
 berry-features                                 :
