@@ -1,9 +1,9 @@
-<div class="features">
+<div class="berry-features">
 
-    {% for feature in site.features %}
+    {% for berry-features in site.features %}
 
     {% if feature.title %}
-    <div class="feature">
+    <div class="berry-features">
         <div>
             <span class="fa-stack fa-1x">
                 <i class="iconBack fas fa-circle fa-stack-2x"></i>
@@ -12,10 +12,10 @@
         </div>
         <div class="featureText">
             <h3>
-                {{ feature.title }}
+                {{ berry-feature.berrytitle }}
             </h3>
             <p>
-                {{ feature.description }}
+                {{ berry-feature.berrydescription }}
             </p>
         </div>
     </div>
