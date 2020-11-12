@@ -1,8 +1,9 @@
+# bundle exec jekyll serve --livereload
 #page title
 page_title                                :      #(상단탭 이름)  
 
 # App Info_text
-ios_app_id                                : 1509623459                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1509623459                   # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EC%98%81/id1509623459    # (앱스토어 url)
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -44,11 +45,11 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : easy
+  - title                                 : useful app
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     fontawesome_icon_name                 : play # magic
     
-  - title                                 : smart
+  - title                                 : easy app
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     fontawesome_icon_name                 : mobile
 
