@@ -61,7 +61,7 @@ features                                  :
     
     
 # misezoro feature list
-misezero-features                         :
+#misezero-features                         :
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
