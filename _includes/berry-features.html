@@ -1,21 +1,21 @@
 <div class="berry-features">
 
-    {% for berry-feature in site.berry-features %}
+    {% for feature in site.berry-features %}
 
-    {% if berry-feature.title %}
-    <div class="berry-feature">
+    {% if feature.title %}
+    <div class="feature">
         <div>
             <span class="fa-stack fa-1x">
                 <i class="iconBack fas fa-circle fa-stack-2x"></i>
-                <i class="iconTop fas fa-{{ berry-feature.fontawesome_icon_name }} fa-stack-1x"></i>
+                <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-1x"></i>
             </span>
         </div>
-        <div class="berry-featureText">
+        <div class="featureText">
             <h3>
-                {{ berry-feature.title }}
+                {{ feature.title }}
             </h3>
             <p>
-                {{ berry-feature.description }}
+                {{ feature.description }}
             </p>
         </div>
     </div>

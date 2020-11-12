@@ -58,8 +58,6 @@ features                                  :
     description                           :  Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
     fontawesome_icon_name                 :  sync
     
-    
-    
 # misezoro feature list
 
   - title                                 : Easy to Tweak
@@ -75,7 +73,7 @@ features                                  :
     fontawesome_icon_name                 : arrow-alt-circle-down
     
 # berry feature lest
-berry-features                                 :
+berry-features                            :
 
   - title                                 : Social Links
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
