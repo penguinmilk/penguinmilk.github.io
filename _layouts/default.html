@@ -22,8 +22,16 @@
                         </div>  
                         
                         <img class="iphoneScreen hidden" src="" alt="">
+                        {% if file.path contains 'assets/screenshot/yourscreenshot' %}
+                        <script>
+                        $(function() {
+                        $(".iphoneScreen").attr('src', '{{ site.github.baseurl }}{{ file.path }}');
+                        $(".iphoneScreen").removeClass("hidden");
+                        console.log("{{ file.path }}");
+                        });
+                        </script>
 
-                        {% include screencontent.html %}
+<!--                        {% include screencontent.html %}-->
 
                     </div>
                     <div class="appInfo">
