@@ -6,12 +6,7 @@ page_title                                : #(상단탭 이름)
 ios_app_id                                : 1509623459                   # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EC%98%81/id1509623459    # (앱스토어 url)
-appstore_berry_link                       :
-appstore_misezero_link                    :
-
-playstore_link                            :                                           # Enter Google Play Store URL.
-playstore_berry_link                      :
-playstore_misezero_link                   : https://play.google.com/store/apps/details?id=com.logbeats.misekorea
+playstore_link                            : https://play.google.com/store/apps/details?id=com.logbeats.misekorea      # Enter Google Play Store URL.
 
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
 #your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
