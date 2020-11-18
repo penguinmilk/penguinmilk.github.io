@@ -8,9 +8,7 @@ include_in_header: false
 August 1 2019
 
 # Privacy Policy
-This Policy (the "Policy") explains the way of treatment of the information which is provided or collected in the App on which this Policy is posted. 
-
-Through this Policy, the Company regards personal information of the users as important and inform them of the purpose and method of Company's using the personal information provided by the users and the measures taken by the Company for protection of those personal information. 
+This is berry-opensource
 
 <br>
 ## 1. Information to be collected and method of collection
