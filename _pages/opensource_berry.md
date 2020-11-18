@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open source
+title: Open Source
 include_in_header: true
 ---
 
