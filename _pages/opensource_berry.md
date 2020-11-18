@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+November 1 2020
 
 # Privacy Policy
 This is berry-opensource
