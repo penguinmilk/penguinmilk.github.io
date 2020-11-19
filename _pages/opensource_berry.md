@@ -4,59 +4,90 @@ title: Open Source
 include_in_header: true
 ---
 
-**Last updated**  
-November 1 2020
 
 # Open source
-This is berry-opensource
+<br>
+## ActionSheetPicer-3.0
+https://github.com/skywinder/ActionSheetPicker-3.0
+-Copyright (c) 2011, Tim Cinel (see AUTHORS)
 
 <br>
-## Charts
-- Application service: all relevant information to be perfectly used of the application such as body condition, period and cycle, to name a few.
-- Other information: IP address, cookies, device information, preference, advertisement environment, visited pages regarding service use of users.
-
-<br>
-## Money-FlightSchool
-We use the collected information of users for the following purposes:
-- Use of our application products and services
-- Making notice of matters on policy and function change.
-- Improvement of existing services and development of new service
-
-<br>
-## SwiftDate
-Except for the following cases, we will not disclose personal information with a 3rd party:
-
-<br>
-## FSCalendar
-The users, as main agents of the information, may exercise the following rights regarding the collection use and sharing of personal information by us:
+## ALCameraViewController
+https://github.com/AlexLittlejohn/ALCameraViewController
+- Copyright (c) 2015 Alex Littlejohn
+- The MIT License (MIT)
 
 <br>
 ## AMTabView
+https://github.com/Abedalkareem/AMTabView
+- Copyright (c) 2019 Abedalkareem <abedalkareem.omreyh@yahoo.com>
+- MIT License
 
 <br>
-## ActionSheetPicer-3.0
+## BiometricAuthentication
+https://github.com/rushisangani/BiometricAuthentication
+- Copyright (c) 2017 Rushi Sangani
+- MIT License
+
+<br>
+## Charts
+https://github.com/google/charts
+- Apache License
+
+<br>
+## Firebase
+https://github.com/firebase/firebase-ios-sdk/
+- Copyright 2020 Firebase, Inc.
+- Apache License
+
+<br>
+## FSCalendar
+https://github.com/WenchaoD/FSCalendar
+- Copyright (c) 2013-2016 FSCalendar (https://github.com/WenchaoD/FSCalendar)
+- MIT License
+
+<br>
+## Money-FlightSchool
+https://github.com/Flight-School/Money
+- Copyright 2018 Read Evaluate Press, LLC
+- MIT License
 
 <br>
 ## RadioGroup
 
-<br>
-## BiometricAuthentication
+- 
 
 <br>
-## XLActionController
+## Sheeeeeeeeet
+https://github.com/danielsaidi/Sheeeeeeeeet
+- Copyright (c) 2017 Daniel Saidi
+- MIT License
+
+<br>
+## SwiftDate
+
 -
 
 <br>
-## ALCameraViewController
+## Tabman
+
+-
 
 <br>
-## Firebase
-
-<br>
-## ALCameraViewControlle
+## XLActionController
+https://github.com/xmartlabs/XLActionController
+- Copyright (c) 2019 XMARTLABS (http://xmartlabs.com)
+- MIT License
 
 <br>
 ## Font
 -
 -
 -
+
+---------
+  pod 'ATActionSheet'
+  pod 'BetterCodable'
+  pod 'CodableFirebase'
+  pod 'Toast-Swift'
+  pod 'NVActivityIndicatorView'
