@@ -101,6 +101,8 @@ cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
 device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
+berry_device_color                        :
+misezero_device_color                     : 
 
 body_background_color                     : "#ffffff"
 
