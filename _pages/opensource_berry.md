@@ -59,13 +59,13 @@ https://github.com/firebase/firebase-ios-sdk/
 - Apache License
 
 <br>
-## FSCalendar
+# FSCalendar
 https://github.com/WenchaoD/FSCalendar
 - Copyright (c) 2013-2016 FSCalendar (https://github.com/WenchaoD/FSCalendar)
 - MIT License
 
 <br>
-## Money-FlightSchool
+# Money-FlightSchool
 https://github.com/Flight-School/Money
 - Copyright 2018 Read Evaluate Press, LLC
 - MIT License
@@ -75,6 +75,7 @@ https://github.com/Flight-School/Money
 https://github.com/ninjaprox/NVActivityIndicatorView
 - Copyright (c) 2016 Vinh Nguye
 - MIT License
+
 <br>
 ## RadioGroup
 https://github.com/yonat/RadioGroup
@@ -82,13 +83,13 @@ https://github.com/yonat/RadioGroup
 - MIT License
 
 <br>
-## Sheeeeeeeeet
+### Sheeeeeeeeet
 https://github.com/danielsaidi/Sheeeeeeeeet
 - Copyright (c) 2017 Daniel Saidi
 - MIT License
 
 <br>
-## SwiftDate
+### SwiftDate
 https://github.com/malcommac/SwiftDate
 - Copyright (c) 2018 Daniele Margutti
 - MIT License
