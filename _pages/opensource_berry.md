@@ -113,7 +113,8 @@ https://github.com/xmartlabs/XLActionController
 
 <br>
 ## Font
--
--
--
+- GreatVibes-Regular
+- Lato-Regular
+- NanumGothic-Regular
+- RecipeKorea
 
