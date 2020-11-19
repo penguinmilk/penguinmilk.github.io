@@ -81,15 +81,15 @@ misezero-features                         :
 berry-features                            :
 
   - title                                 : Period Tracking
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description                           : With Berry, every women can check their period tracking, prediction of ovulation day, recording body condition as well.
     fontawesome_icon_name                 : calendar-check #link
 
   - title                                 : Data visualizing
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    description                           : The berry app provides every useful data visualizing for user. 
     fontawesome_icon_name                 : chart-bar #info-circle
 
   - title                                 : Easy handling
-    description                           : New Feature Description
+    description                           : Just download Berry App and start to use now. just first step of adding your period date can drive smart women's healthy life.    
     fontawesome_icon_name                 : grin-hearts                      # Find free icons on fontawesome.com/icons.
 
 
