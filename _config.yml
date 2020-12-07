@@ -6,7 +6,7 @@ page_title                                : #(상단탭 이름)
 ios_app_id                                : 15096234591                   # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/kr/app/%EB%AF%B8%EC%84%B8%EC%98%81/id1509623459    # (앱스토어 url)
-berry_appstore_link                       : https://www.daum.net/
+berry_appstore_link                       : https://apps.apple.com/kr/app/berry-%EC%97%AC%EC%84%B1-%EC%A0%84%EC%9A%A9-%EB%8B%AC%EB%A0%A5-%EC%83%9D%EB%A6%AC-%EB%B0%B0%EB%9E%80-%EC%9E%84%EC%8B%A0/id1524406363
 
 playstore_link                            : https://play.google.com/store/apps/details?id=com.logbeats.misekorea      # Enter Google Play Store URL.
 berry_playstore_link                      :
